@@ -1,0 +1,107 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#honey{
+	
+	display: none;
+}
+#mar{
+	margin-top: 100px;
+}
+
+input{
+	display: block;
+	height: 30px;
+	width: 300px;
+	margin: 0 auto;
+
+}
+p{
+	max-width: 500px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+textarea{
+	display: block;
+	width: 300px;
+	height: 30px;
+	margin: 0 auto;
+}
+label{
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 30px;
+
+}
+.naissance{
+	width: 300px;
+	margin: 0 auto;
+}
+strong{
+	width: 300px;
+	margin: 0 auto;
+}
+.questionnement{
+	width: 300px;
+	margin: 0 auto;
+}
+
+.error{
+	color: red;
+}
+h1{
+	color: #fff;
+	font-size: 27px;
+	text-align: center;
+}
+
+#submit{
+	border: 1px solid #991010;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	background: #fff;
+	cursor: pointer;
+}
+
+#submit:hover{
+	border: none;
+	background: #991010;
+	-webkit-transition: .2s;
+	color: #fff;
+}
+
+
+.logo{
+	background-color: #991010;
+	height: 200px;
+	position: relative;
+	overflow: hidden;
+}
+
+.logo h1{
+	padding-top: 130px;
+}
+.bonjour{
+	color: #929292;
+	margin-top: 50px;
+
+}
+
+.logo-un{
+	position: absolute;
+	top: 30px;
+	width: 100px;
+	margin-left: 45%;
+}
+
+
+
+fieldset{
+	border: none;
+	margin-top: 20px;
+}
